@@ -11,8 +11,12 @@
 * [Java](http://www.twjug.org/)
 
 # Other
-* [Cloud Native]()
+* [Agile Community in Taiwan](https://www.facebook.com/AgileCommunity.tw/)
+* [Agile Community in 內湖](https://www.facebook.com/groups/AgileNeihu/)
+* [Agile Taichung](https://www.facebook.com/groups/Agile.Taichung/)
+* [Agile Kaohsiung](https://www.facebook.com/groups/agile.kaohsiung/)
+* [Cloud Native Taiwan User Group](https://www.facebook.com/groups/cloudnative.tw/)
 * [DevOps Taiwan](https://www.facebook.com/groups/DevOpsTaiwan/)
-* [GDG Taipei]()
-* [GDG Taichung]()
-* [GDG Kaohsiung]()
+* [GDG Taipei](https://www.gdg-taipei.org/)
+* [GDG Taichung](https://www.facebook.com/GDG.Taichung/)
+* [GDG Kaohsiung](http://gdgk.ga/)
