@@ -34,3 +34,9 @@
 * https://devfest-tw.appspot.com/
 ### Agile Tour Taipei, Dec 7 2019
 * https://agilecommtw.kktix.cc/events/agiletourtaipei2019
+### Agile Tour Hsinchu, Dec 14 2019
+* https://agilecommtw.kktix.cc/events/agiletourhsinchu2019
+### Agile Tour Kaohsiung, Dec 21 2019
+* https://agilecommtw.kktix.cc/events/agiletourkaohsiung2019
+### Agile Tour Taichung, Dec 28 2019
+* https://agilecommtw.kktix.cc/events/agiletourtaichung2019
