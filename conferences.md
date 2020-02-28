@@ -32,6 +32,8 @@
 * http://study4.tw/Activity/Details/24
 ### GDG DevFest Taipei, Dec 1 2019
 * https://devfest-tw.appspot.com/
+### LINE Taiwan TECHPULSE, Dec 4 2019
+* https://techpulse.line.me/
 ### Agile Tour Taipei, Dec 7 2019
 * https://agilecommtw.kktix.cc/events/agiletourtaipei2019
 ### Agile Tour Hsinchu, Dec 14 2019
