@@ -6,6 +6,8 @@
 * https://aws.amazon.com/tw/summits/taipei/
 ### LaravelConf, Jul 13 2019
 * https://laravelconf.tw/
+### 17 Tech Night, Jul 24 2019
+* https://17mediatech.kktix.cc/events/17technight-2
 ### Ruby Conf, Jul 26-27 2019
 * https://2019.rubyconf.tw/
 ### COSCUP, Aug 17-18 2019
