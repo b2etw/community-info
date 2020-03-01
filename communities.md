@@ -21,3 +21,4 @@
 * [GDG Taichung](https://www.facebook.com/GDG.Taichung/)
 * [GDG Kaohsiung](http://gdgk.ga/)
 * [SRE Taiwan](https://www.facebook.com/groups/sre.taiwan/)
+* [Scrum Community in Taiwan](https://www.facebook.com/groups/179345672472)
