@@ -5,7 +5,7 @@
 
 ### 🔖 研討會列表
 * [Global Conferences](./global-conferences.md)
-* [Conferences](./conferences.md)
+* [Taiwan Conferences](./conferences.md)
 
 ### 😯 暫時停辦的研討會們
 * [Pause Conferences](./pause-conferences.md)
