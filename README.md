@@ -4,6 +4,7 @@
 * [Communities](./communities.md)
 
 ### 🔖 研討會列表
+* [Global Conferences](./global-conferences.md)
 * [Conferences](./conferences.md)
 
 ### 😯 暫時停辦的研討會們
