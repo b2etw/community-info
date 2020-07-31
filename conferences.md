@@ -16,15 +16,15 @@
 * https://modernweb.tw/
 ### DataCon. TW, Sep 6 2019
 * http://2019.datacon.tw/
-### Kubernetes Summit, Sep 11 2019
+### Kubernetes Summit, Sep. 26 2020
 * https://summit.ithome.com.tw/kubernetes/
 ### PyCon, Sep. 05-06 2020
 * https://tw.pycon.org/2019/zh-hant/
-### JCConf, Nov. 19 2019
+### JCConf, Nov. 19 2020
 * https://jcconf.tw/2020/
 ### DevOpsDay Taipei, Oct 16-18 2019
 * https://devopsdays.tw/
-### MOPCON, Oct 19-20 2019
+### MOPCON, Oct. 19-20 2020
 * https://mopcon.org/2019/
 ### JSDC, Oct 26 2019
 * https://2019.jsdc.tw/
